@@ -1,0 +1,12 @@
+.btn{
+    /* width: 10.75rem; */
+    width: 172px;
+    height: 47px;
+    /* height: 2.9375rem; */
+    border: 2px solid #FFF;
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    font-size: 1rem;
+    font-weight: 600;
+    
+}

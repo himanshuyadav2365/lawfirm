@@ -1,0 +1,17 @@
+:root{
+  --color-primary: #111111;
+  --color-secondary: #1D1D1D;
+  --color-white: #FFFFFF;
+}
+
+body,html {
+  height: 100%;
+}
+
+body {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  margin: 0px;
+  font-family: Inter;
+  overflow-x: hidden;
+}
