@@ -1,0 +1,48 @@
+.firstpage{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 544px;
+   width: 100%;
+}
+
+.hero{
+    width: 467px;
+    height: 544px;
+}
+
+.intro{
+    width: 571px;
+    height: 194px;
+
+}
+
+.intro1{
+
+    font-family: Inter;
+    font-size: 4.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 147.523%; /* 6.08531rem */
+    width: 35.6875rem;
+}
+.intro2{
+font-family: Inter;
+font-size: 4.125rem;
+font-style: normal;
+font-weight: 700;
+line-height: 147.523%;
+width: 35.6875rem;
+
+}
+
+.intro3{
+font-family: Inter;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 500;
+line-height: 162.523%; /* 1.82838rem */
+width: 35rem;
+height: 6.1875rem;
+opacity: 0.3;
+}

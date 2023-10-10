@@ -1,0 +1,48 @@
+.intro{
+    width: 70.75rem;
+    height: 10.875rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 496px;
+    left: 150px;
+}
+
+.left{
+    color: var(--Pure-White, #FFF);
+    font-family: Inter;
+    font-size: 3.375rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 161.523%; /* 5.45138rem */
+    /* width: 387px;
+    height: 174px; */
+    
+}
+
+.rightheading{
+    color: var(--Pure-White, #FFF);
+    /* text-align: center; */
+    font-family: Inter;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 162.523%; /* 3.25044rem */
+}
+
+.rightcontent{
+    color: var(--Pure-White, #FFF);
+font-family: Inter;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 500;
+line-height: 162.523%; /* 1.82838rem */
+opacity: 0.3;
+}
+
+
+.verticalline{
+    width: 0.0625rem;
+    height: 12.875rem;
+    background: #ffff;
+}

@@ -1,0 +1,20 @@
+.email{
+    display: flex;
+    border-radius: 43px;
+    width: 27.375rem;
+    height: 4.625rem;
+    background-color: var(--color-secondary);
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 2.6875rem;
+    /* opacity: 0.1; */
+    /* background: var(--Pure-White, #FFF); */
+}
+
+
+.btn{
+    width: 8.5625rem;
+    height: 3.875rem;
+    border-radius: 2.6875rem;
+    background: #E3B748;
+}
