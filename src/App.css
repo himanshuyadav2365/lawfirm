@@ -3,10 +3,11 @@
     padding-left: 153px;
     padding-right: 153px;
     padding-bottom: 200px;
+
 }
 
 .landingpage{
     
     height: 61.875rem;
-    background-color: var(--color-primary);
+    background-color: var(--color-secondary);
 }

@@ -1,0 +1,44 @@
+.subscribe{
+    height: 22.25rem;
+    background: rgba(71, 71, 71, 0.50);
+    margin: 6.16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica Now Display;
+    font-size: 3.43rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 137%; /* 4.70938rem */
+}
+
+.input{
+    width: 17.25rem;
+    height: 3.3125rem;
+
+}
+
+.btn{
+    border-radius: 0rem 0.5rem 0.5rem 0rem;
+    background: #E3B748;
+    width: 7.25rem;
+    height: 3.3125rem;
+    color: #000;
+    text-align: center;
+    font-family: Helvetica Now Display;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 137%; /* 1.19875rem */
+}
+.wrapper{
+    display: flex;
+    gap: 0.56rem;
+    align-items: stretch;
+}
