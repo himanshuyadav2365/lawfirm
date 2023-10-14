@@ -25,7 +25,7 @@ const Intro = () => {
                         <p className={styles.cardtext}>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequatduis enim velit mollit Exer.</p>
                         <button className={styles.btn}>Read more</button>
                     </div>
-                    <div className={styles.card}>
+                    <div className={styles.card2}>
                         <div className={styles.imgcontainer}>
                             <img src={cardimg} alt="cardprofile photo" className={styles.img}/>
                         </div>

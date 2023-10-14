@@ -1,0 +1,38 @@
+.heading{
+    color: var(--Pure-White, #FFF);
+font-family: Inter;
+font-size: 3.375rem;
+font-style: normal;
+font-weight: 600;
+line-height: 143.023%; /* 4.827rem */
+text-align: center;
+margin-top: 11.9rem;
+}
+
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-top: 4.06rem;
+
+}
+
+.lg,.md{
+    position: relative;
+}
+
+.lg>p,.md>p{
+    position: absolute;
+    bottom: 3rem;
+    left: 0;
+    right: 0;
+    text-align: center;
+
+    color: #FFFBF2;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.5rem; /* 100% */
+}
+

@@ -77,6 +77,14 @@ opacity: 0.3;
     border: 1.4px solid rgba(255, 255, 255, 0.10);
     background: #1D1D1D; 
 }
+.card2{
+    width: 22.4375rem;
+    height: 23.5625rem;
+    border-radius: 0.875rem;
+    border: 1.4px solid rgba(255, 255, 255, 0.10);
+    background: #2E2E2E;
+
+}
 
 .cardheading{
     color: var(--Pure-White, #FFF);
