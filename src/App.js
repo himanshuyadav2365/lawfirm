@@ -6,8 +6,10 @@ import Intro from './Components/IntroPage/Intro'
 function App() {
   return (
     <div className="App">
-      <Navbar/>
-      <Hero/>
+      <div className='landingpage'>
+        <Navbar/>
+        <Hero/>
+      </div>
       <Intro/>
     </div>
   );

@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 496px;
+    margin-top: 25rem;
     left: 150px;
 }
 
@@ -44,5 +44,92 @@ opacity: 0.3;
 .verticalline{
     width: 0.0625rem;
     height: 12.875rem;
-    background: #ffff;
+    background: #6A6A6A;
+}
+
+.text{
+    color: var(--Pure-White, #FFF);
+    font-family: Inter;
+    font-size: 3.375rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 143.023%; /* 4.827rem */
+    margin-top: 11.6rem;
+    text-align: center;
+}
+
+.whychooseus{
+    width: 70.75rem;
+    height: 10.875rem;
+}
+
+.wrapper{
+    
+    display: flex;  
+    margin-top: 6rem;
+    gap: 1.94rem; 
+}
+
+.card{
+    width: 22.4375rem;
+    height: 23.5625rem;
+    border-radius: 0.875rem;
+    border: 1.4px solid rgba(255, 255, 255, 0.10);
+    background: #1D1D1D; 
+}
+
+.cardheading{
+    color: var(--Pure-White, #FFF);
+font-family: Inter;
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 600;
+line-height: 1.5rem; /* 100% */
+padding-left: 1.4rem;
+}
+
+.cardtext{
+    color: var(--Pure-White, #FFF);
+font-family: Inter;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 500;
+line-height: 162.523%; /* 1.42206rem */
+opacity: 0.3;
+width: 18rem;
+height: 4rem;
+padding-left: 1.4rem;
+}
+
+.btn{
+    color: #000;
+font-family: Inter;
+font-size: 0.875rem;
+
+font-weight: 600;
+/* line-height: 162.523%; 1.42206rem */
+
+width: 7.5625rem;
+height: 2.6875rem;
+
+
+border-radius: 1.46875rem;
+background: #E3B748;
+margin: 1.4rem;
+}
+
+.img{
+    width: 3.875rem;
+    height: 3.875rem;
+    padding: 0.48438rem 0.32294rem 0.32863rem 0.32294rem;
+}
+.imgcontainer{
+    width: 6.3125rem;
+    height: 6.3125rem;
+    background-color: #FFF;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.75rem 1.5rem
 }

@@ -1,6 +1,12 @@
 .App{
-    margin-top: 61px;
-    margin-left: 153px;
-    margin-right: 153px;
+    padding-top: 61px;
+    padding-left: 153px;
+    padding-right: 153px;
     padding-bottom: 200px;
+}
+
+.landingpage{
+    
+    height: 61.875rem;
+    background-color: var(--color-primary);
 }
